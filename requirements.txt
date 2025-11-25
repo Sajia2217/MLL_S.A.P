@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+pickle-mixin
+numpy
+regex
