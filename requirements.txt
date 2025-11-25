@@ -3,3 +3,4 @@ tensorflow
 pickle-mixin
 numpy
 regex
+matplotlib
